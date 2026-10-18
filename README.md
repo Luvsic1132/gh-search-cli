@@ -13,14 +13,14 @@ No dependencies. No API key required. `pip` not needed.
 ## Install
 
 ```bash
-curl -O https://raw.githubusercontent.com/<you>/gh-search-cli/main/ghs.py
+curl -O https://raw.githubusercontent.com/Luvsic1132/gh-search-cli/main/ghs.py
 python ghs.py search "json diff" --limit 5
 ```
 
 Or clone and put it on your PATH:
 
 ```bash
-git clone https://github.com/<you>/gh-search-cli.git
+git clone https://github.com/Luvsic1132/gh-search-cli.git
 cd gh-search-cli
 python ghs.py --help
 ```

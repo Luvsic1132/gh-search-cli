@@ -13,7 +13,7 @@
 ## 安装
 
 ```bash
-curl -O https://raw.githubusercontent.com/<you>/gh-search-cli/main/ghs.py
+curl -O https://raw.githubusercontent.com/Luvsic1132/gh-search-cli/main/ghs.py
 python ghs.py search "json diff" --limit 5
 ```
 
